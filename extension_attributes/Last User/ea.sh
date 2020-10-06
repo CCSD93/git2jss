@@ -5,3 +5,4 @@ if [ $lastUser == "" ]; then
 	echo "<result>No logins</result>"
 else
 	echo "<result>$lastUser</result>"
+fi
