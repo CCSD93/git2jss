@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>start_voice_prompt.sh</name>
+   <category>Scripts</category>
+   <info/>
+   <notes>Use this script on a stolen Mac to start have the Mac speak the phrase &quot;Please return this MacBook to School District 93 at 230 Covington Drive in Bloomingdale, Illinois.&quot;</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

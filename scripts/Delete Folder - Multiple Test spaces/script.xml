@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Delete Folder - Multiple Test spaces</name>
+   <category>Scripts</category>
+   <info>The script can handle sent parameter folders / files with either spaces or wildcards, but not both.</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters>
+      <parameter4>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter4>
+      <parameter5>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter5>
+      <parameter6>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter6>
+      <parameter7>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter7>
+      <parameter8>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter8>
+      <parameter9>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter9>
+      <parameter10>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter10>
+      <parameter11>Folder to delete, use the word homefolder to indicate the logged in user ID</parameter11>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

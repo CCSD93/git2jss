@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Wifi - Remove Specified Networks</name>
+   <category>Scripts</category>
+   <info>This script remove the specified network from the list of preferred networks</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>Network to Remove</parameter4>
+      <parameter5>Second Network to Remove</parameter5>
+      <parameter6>Third Network to Remove</parameter6>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

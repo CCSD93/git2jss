@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Wifi - removeGuest.sh</name>
+   <category>Scripts</category>
+   <info>This script remove the CCSD93-Guest network from the list of preferred networks</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

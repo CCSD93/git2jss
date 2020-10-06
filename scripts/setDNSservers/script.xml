@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<script>
+   <name>setDNSservers</name>
+   <category>Scripts</category>
+   <info/>
+   <notes/>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>DNSserver1</parameter4>
+      <parameter5>DNSserver2</parameter5>
+      <parameter6>DNSserver3</parameter6>
+      <parameter7>DNSserver4</parameter7>
+      <parameter8>DNSserver5</parameter8>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>launch_jamf_helper</name>
+   <category>Scripts</category>
+   <info/>
+   <notes/>
+   <priority>At Reboot</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

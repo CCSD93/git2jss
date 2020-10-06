@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<script>
+   <name>00-displayMessage.sh</name>
+   <category>Scripts</category>
+   <info>Script to display a pop up message to the user.</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>Message to Display</parameter4>
+      <parameter5>Type YES to display the message in the background</parameter5>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

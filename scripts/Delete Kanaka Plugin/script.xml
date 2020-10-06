@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Delete Kanaka Plugin</name>
+   <category>Scripts</category>
+   <info>This script deletes the Kanaka Plugin folder if it exists.</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

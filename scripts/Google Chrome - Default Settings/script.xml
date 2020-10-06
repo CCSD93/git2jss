@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Google Chrome - Default Settings</name>
+   <category>Browsers</category>
+   <info/>
+   <notes/>
+   <priority>At Reboot</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

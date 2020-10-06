@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Solo 6 Delete app.sh</name>
+   <category>Scripts</category>
+   <info>This script deletes the Don Johnston folder if it exists.</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

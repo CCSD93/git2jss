@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<script>
+   <name>macOS Upgrade Helper</name>
+   <category>OS</category>
+   <info/>
+   <notes>This script was initially found at: https://github.com/kc9wwh/macOSUpgrade</notes>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>macOS Install Path</parameter4>
+      <parameter5>macOS Version</parameter5>
+      <parameter6>Cache Policy Trigger</parameter6>
+      <parameter7>Installer Checksum</parameter7>
+      <parameter8>Erase Before Install</parameter8>
+      <parameter9>User Dialog</parameter9>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

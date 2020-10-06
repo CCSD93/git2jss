@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Delete Application - Multiple</name>
+   <category>Scripts</category>
+   <info/>
+   <notes/>
+   <priority>Before</priority>
+   <parameters>
+      <parameter4>Application to delete without app extension</parameter4>
+      <parameter5>Application 2 to delete without app extension</parameter5>
+      <parameter6>Application 3 to delete without app extension</parameter6>
+      <parameter7>Application 4 to delete without app extension</parameter7>
+      <parameter8>Application 5 to delete without app extension</parameter8>
+      <parameter9>Application 6 to delete without app extension</parameter9>
+      <parameter10>Application 7 to delete without app extension</parameter10>
+      <parameter11>Application 8 to delete without app extension</parameter11>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<computer_extension_attribute>
+   <name>Java Version</name>
+   <enabled>true</enabled>
+   <description>Extension Attribute to find the installed version of Java Runtime</description>
+   <data_type>String</data_type>
+   <input_type>
+      <type>script</type>
+      <platform>Mac</platform>
+      <script/>
+   </input_type>
+   <inventory_display>Extension Attributes</inventory_display>
+   <recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>

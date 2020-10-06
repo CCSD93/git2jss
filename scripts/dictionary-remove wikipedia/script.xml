@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>dictionary-remove wikipedia</name>
+   <category>Scripts</category>
+   <info>Kids searched the Dictionary app for &quot;man&quot; and &quot;woman&quot; which linked to the Wikipedia pages showing and image of a naked man and woman, respectively.</info>
+   <notes/>
+   <priority>At Reboot</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

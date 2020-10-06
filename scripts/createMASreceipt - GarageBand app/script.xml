@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<script>
+   <name>createMASreceipt - GarageBand app</name>
+   <category>Scripts</category>
+   <info>This script will create a blank receipt file which might be necessary for an app that is installed using the pkg captured from an AppStore install.</info>
+   <notes/>
+   <priority>At Reboot</priority>
+   <parameters>
+      <parameter4>Application</parameter4>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

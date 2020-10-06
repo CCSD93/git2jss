@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<script>
+   <name>OS Upgrade Notification</name>
+   <category>OS</category>
+   <info/>
+   <notes>found at https://github.com/bp88/JSS-Scripts/blob/master/JamfDeprecationNotifier.sh with documentation at https://babodee.wordpress.com/2019/09/19/jamf-pro-os-deprecator/</notes>
+   <priority>Before</priority>
+   <parameters>
+      <parameter4>Optional. A minimum OS version</parameter4>
+      <parameter5>Optional. The custom trigger name for a Jamf policy that will initiate the OS upgrade.</parameter5>
+      <parameter6>Optional. Provide the policy kicking off this script a custom trigger name and supply it here.</parameter6>
+      <parameter7>Optional. The Start Date</parameter7>
+      <parameter8>Optional. The Nag Date</parameter8>
+      <parameter9>Optional. The End Date</parameter9>
+      <parameter10>Optional. The re-notification period</parameter10>
+      <parameter11>Optional. The time out period</parameter11>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

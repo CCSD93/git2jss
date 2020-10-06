@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Wifi - Remove CCSD93 Preferred Network</name>
+   <category>Scripts</category>
+   <info>This script remove the CCSD93 network from the list of preferred networks</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

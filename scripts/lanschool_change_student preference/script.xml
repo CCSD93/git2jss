@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<script>
+   <name>lanschool_change_student preference</name>
+   <category>Scripts</category>
+   <info/>
+   <notes/>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>LanSchool Preference</parameter4>
+      <parameter5>Setting</parameter5>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

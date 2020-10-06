@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>GateKeeper - Disable</name>
+   <category>Scripts</category>
+   <info/>
+   <notes/>
+   <priority>At Reboot</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>
